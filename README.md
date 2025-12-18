@@ -8,7 +8,6 @@ sudo apt install git
 git --version
 
 ## Exemple : tableau des commandes (modèle)
-Tu complètes la colonne Description avec tes mots :
 
 ```md
 | Commande | Description |
